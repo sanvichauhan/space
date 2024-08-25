@@ -1,4 +1,4 @@
-Hi thi is my first repository on the Github Account.
+Hi this is my first repository on the Github Account.
 Git is Program.
 Github is a web repository.
 Commands:
@@ -7,3 +7,4 @@ Commands:
 -push
 -pull
 -commit
+
